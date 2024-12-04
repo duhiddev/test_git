@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="2ZbvjM-t53Op8WkdwnNr" name="Page-1">
+        <mxGraphModel dx="2640" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hiu.vn/wp-content/uploads/2023/10/git-workflow-1.png;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="-30" width="1011.6" height="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.careerviet.vn/content/images/git-la-gi-CareerBuilder-4.jpg;" vertex="1" parent="1">
+                    <mxGeometry x="-210" y="-90" width="520" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.viblo.asia/full/84f47fd1-a009-4beb-8957-26395fe1023d.png;" vertex="1" parent="1">
+                    <mxGeometry x="-210" y="330" width="520" height="319" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
